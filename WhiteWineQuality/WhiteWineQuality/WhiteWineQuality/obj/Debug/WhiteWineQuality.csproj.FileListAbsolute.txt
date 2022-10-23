@@ -1,0 +1,11 @@
+D:\Teme\Inteligenta Artificiala\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\bin\Debug\WhiteWineQuality.exe.config
+D:\Teme\Inteligenta Artificiala\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\bin\Debug\WhiteWineQuality.exe
+D:\Teme\Inteligenta Artificiala\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\bin\Debug\WhiteWineQuality.pdb
+D:\Teme\Inteligenta Artificiala\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\obj\Debug\WhiteWineQuality.csproj.AssemblyReference.cache
+D:\Teme\Inteligenta Artificiala\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\obj\Debug\WhiteWineQuality.csproj.SuggestedBindingRedirects.cache
+D:\Teme\Inteligenta Artificiala\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\obj\Debug\WhiteWineQuality.Properties.Resources.resources
+D:\Teme\Inteligenta Artificiala\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\obj\Debug\WhiteWineQuality.csproj.GenerateResource.cache
+D:\Teme\Inteligenta Artificiala\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\obj\Debug\WhiteWineQuality.csproj.CoreCompileInputs.cache
+D:\Teme\Inteligenta Artificiala\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\obj\Debug\WhiteWineQuality.exe
+D:\Teme\Inteligenta Artificiala\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\obj\Debug\WhiteWineQuality.pdb
+D:\Teme\Inteligenta Artificiala\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\obj\Debug\WhiteWineQuality.Form1.resources
