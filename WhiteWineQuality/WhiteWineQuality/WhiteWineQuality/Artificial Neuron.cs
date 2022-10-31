@@ -12,7 +12,7 @@ namespace WhiteWineQuality {
         public int _numberInput = 1;
         public List<double> _inputX;
         public List<double> _weight; //taria sinaptica
-       
+        public double eroare;
         public Artificial_Neuron(int numberOfInput) {
             _numberInput = numberOfInput;
             _weight = new List<double>();

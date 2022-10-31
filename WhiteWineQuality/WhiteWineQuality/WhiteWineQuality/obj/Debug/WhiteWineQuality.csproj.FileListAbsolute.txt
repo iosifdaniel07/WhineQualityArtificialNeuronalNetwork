@@ -9,3 +9,30 @@ D:\Teme\Inteligenta Artificiala\WhiteWineQuality\WhiteWineQuality\WhiteWineQuali
 D:\Teme\Inteligenta Artificiala\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\obj\Debug\WhiteWineQuality.exe
 D:\Teme\Inteligenta Artificiala\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\obj\Debug\WhiteWineQuality.pdb
 D:\Teme\Inteligenta Artificiala\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\obj\Debug\WhiteWineQuality.Form1.resources
+C:\Users\DanielIosif\Documents\GitHub\WhineQualityArtificialNeuronalNetwork\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\bin\Debug\WhiteWineQuality.exe.config
+C:\Users\DanielIosif\Documents\GitHub\WhineQualityArtificialNeuronalNetwork\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\bin\Debug\WhiteWineQuality.exe
+C:\Users\DanielIosif\Documents\GitHub\WhineQualityArtificialNeuronalNetwork\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\bin\Debug\WhiteWineQuality.pdb
+C:\Users\DanielIosif\Documents\GitHub\WhineQualityArtificialNeuronalNetwork\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\obj\Debug\WhiteWineQuality.csproj.AssemblyReference.cache
+C:\Users\DanielIosif\Documents\GitHub\WhineQualityArtificialNeuronalNetwork\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\obj\Debug\WhiteWineQuality.csproj.SuggestedBindingRedirects.cache
+C:\Users\DanielIosif\Documents\GitHub\WhineQualityArtificialNeuronalNetwork\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\obj\Debug\WhiteWineQuality.Form1.resources
+C:\Users\DanielIosif\Documents\GitHub\WhineQualityArtificialNeuronalNetwork\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\obj\Debug\WhiteWineQuality.Properties.Resources.resources
+C:\Users\DanielIosif\Documents\GitHub\WhineQualityArtificialNeuronalNetwork\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\obj\Debug\WhiteWineQuality.csproj.GenerateResource.cache
+C:\Users\DanielIosif\Documents\GitHub\WhineQualityArtificialNeuronalNetwork\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\obj\Debug\WhiteWineQuality.csproj.CoreCompileInputs.cache
+C:\Users\DanielIosif\Documents\GitHub\WhineQualityArtificialNeuronalNetwork\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\obj\Debug\WhiteWineQuality.exe
+C:\Users\DanielIosif\Documents\GitHub\WhineQualityArtificialNeuronalNetwork\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\obj\Debug\WhiteWineQuality.pdb
+C:\Users\DanielIosif\Documents\GitHub\WhineQualityArtificialNeuronalNetwork\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\bin\Debug\ZedGraph.dll
+C:\Users\DanielIosif\Documents\GitHub\WhineQualityArtificialNeuronalNetwork\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\bin\Debug\ZedGraph.xml
+C:\Users\DanielIosif\Documents\GitHub\WhineQualityArtificialNeuronalNetwork\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\DanielIosif\Documents\GitHub\WhineQualityArtificialNeuronalNetwork\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\DanielIosif\Documents\GitHub\WhineQualityArtificialNeuronalNetwork\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\DanielIosif\Documents\GitHub\WhineQualityArtificialNeuronalNetwork\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\DanielIosif\Documents\GitHub\WhineQualityArtificialNeuronalNetwork\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\DanielIosif\Documents\GitHub\WhineQualityArtificialNeuronalNetwork\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\DanielIosif\Documents\GitHub\WhineQualityArtificialNeuronalNetwork\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\DanielIosif\Documents\GitHub\WhineQualityArtificialNeuronalNetwork\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\DanielIosif\Documents\GitHub\WhineQualityArtificialNeuronalNetwork\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\DanielIosif\Documents\GitHub\WhineQualityArtificialNeuronalNetwork\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\DanielIosif\Documents\GitHub\WhineQualityArtificialNeuronalNetwork\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\DanielIosif\Documents\GitHub\WhineQualityArtificialNeuronalNetwork\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\DanielIosif\Documents\GitHub\WhineQualityArtificialNeuronalNetwork\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\DanielIosif\Documents\GitHub\WhineQualityArtificialNeuronalNetwork\WhiteWineQuality\WhiteWineQuality\WhiteWineQuality\obj\Debug\WhiteWineQuality.csproj.CopyComplete

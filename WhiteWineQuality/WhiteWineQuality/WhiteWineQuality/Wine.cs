@@ -39,6 +39,13 @@ namespace WhiteWineQuality {
     }
 
     public class ReadCSV {
+         
+        public static double normalizationTarget(int x)
+        {
+            decimal m = 1m / 9m;
+            decimal n = -1m / 9m;
+            return (double)(x * m + n);
+        }
 
         public static List<NormalizedWine> norminalization(List<Wine> listwine) {
 
@@ -106,7 +113,8 @@ namespace WhiteWineQuality {
                 if (minAlcohol > wine.Alcohol) {
                     minAlcohol = wine.Alcohol;
                 }
-                if (minQuality > wine.Quality) {
+                if (minQuality > wine.Quality)
+                {
                     minQuality = wine.Quality;
                 }
                 //MAX
@@ -144,7 +152,8 @@ namespace WhiteWineQuality {
                 if (maxAlcohol < wine.Alcohol) {
                     maxAlcohol = wine.Alcohol;
                 }
-                if (maxQuality < wine.Quality) {
+                if (maxQuality < wine.Quality)
+                {
                     maxQuality = wine.Quality;
                 }
 
@@ -166,6 +175,8 @@ namespace WhiteWineQuality {
                 normWine.Sulphates = (w.Sulphates - minSulphates) / (maxSulphates - minSulphates);
                 normWine.Alcohol = (w.Alcohol - minAlcohol) / (maxAlcohol - minAlcohol);
                 normWine.Quality = (w.Quality - minQuality) / (maxQuality - minQuality);
+               // normWine.Quality = normalizationTarget(w.Quality);
+               
                 
                 normalizedWines.Add(normWine);
             });
